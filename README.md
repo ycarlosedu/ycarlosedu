@@ -1,7 +1,7 @@
 ### Heey, I'm Carlos Eduardo 🐱‍👤
 
 <img align="right" alt="Carlos-Gif" src="https://media2.giphy.com/media/2DiW4uEOHAMeO1WMCK/giphy.gif?cid=790b7611887f5703341c32a8b07fa447dae3185421e3214d&rid=giphy.gif&ct=g" width=150px>
-- 🔭 I’m currently working as Trainee dev. <br>
+- 🔭 I’m currently working as a junior dev. <br>
 - 🌱 I’m currently learning Front-End. <br>
 - 📫 How to reach me: ⬇ ⏬ <br>
 

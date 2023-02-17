@@ -6,8 +6,7 @@
 - 📫 How to reach me: ⬇ ⏬ <br>
 
 <br>
-<div> 
-  <a href="https://instagram.com/ycarlosedu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
   <a href="https://www.linkedin.com/in/silvacarlosoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:silvacarlosoliveira@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
@@ -25,6 +24,8 @@
   <img align="center" alt="Icon-PHP" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" />
   <img align="center" alt="Icon-NodeJS" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="Icon-MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg" />
+  <img align="center" alt="Icon-Jest" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Icon-Cypress" height="50" width="50" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png" />
 </div>
 
 <br>

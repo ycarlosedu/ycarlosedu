@@ -1,8 +1,8 @@
 <h1 align="center"> Heey, I'm Carlos Eduardo 🐱‍👤 </h1>
 
 <img align="right" alt="Carlos-Gif" src="https://media2.giphy.com/media/2DiW4uEOHAMeO1WMCK/giphy.gif?cid=790b7611887f5703341c32a8b07fa447dae3185421e3214d&rid=giphy.gif&ct=g" width=150px>
-- 🔭 I’m currently working as a Front-end Junior Dev. <br>
-- 🌱 I’m currently learning Back-End and SQL. <br>
+- 👨‍💻 I’m currently working as a Front-end Developer. <br>
+- 💻 I’m always free to learn new things and technologies. <br>
 - 📫 How to reach me: ⬇ ⏬ <br>
 
 <br>
@@ -18,6 +18,7 @@
   <img align="center" alt="Icon-Javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Icon-Typescript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Icon-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Icon-Nextjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Icon-TailWind" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Icon-SASS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Icon-bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -32,9 +33,11 @@
   
 <div align=center>
   <h2 align="center"> My activities </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=ycarlosedu&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="417">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycarlosedu&layout=compact&hide=TSQL&theme=chartreuse-dark">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ycarlosedu&theme=chartreuse-dark">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ycarlosedu&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="417">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycarlosedu&layout=compact&hide=TSQL&theme=chartreuse-dark">
 </div>
 
   

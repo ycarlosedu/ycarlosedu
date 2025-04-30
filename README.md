@@ -7,9 +7,9 @@
 
 <br>
 <div>
-  <a href="carlossilva.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-blue?style=for-the-badge" target="_blank"></a> 
+  <a href="https://carlossilva.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-blue?style=for-the-badge" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/silvacarlosoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:silvacarlosoliveira@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="mailto:silvacarlosoliveira@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ycarlosedu&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ycarlosedu&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  

@@ -1,11 +1,9 @@
 <h1 align="center"> Heey, I'm Carlos Eduardo ✌️😅 </h1>
 
-<img align="right" alt="Carlos-Gif" src="https://media2.giphy.com/media/2DiW4uEOHAMeO1WMCK/giphy.gif?cid=790b7611887f5703341c32a8b07fa447dae3185421e3214d&rid=giphy.gif&ct=g" width=150px>
-- 👨‍💻 I’m currently working as a Front-end Developer. <br>
+- 👨‍💻 I’m currently working as a Front-end/Full-stack/Freelancer Developer. <br>
 - 💻 I’m always free to learn new things and technologies. <br>
 - 📫 How to reach me: ⬇ ⏬ <br>
 
-<br>
 <div>
   <a href="https://carlossilva.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-blue?style=for-the-badge" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/silvacarlosoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
